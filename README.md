@@ -1,4 +1,4 @@
-# Hi, I'm [Ishanth]! 👋
+# Hi, I'm Ishanth! 👋
 
 I am an aspiring **Software & AI Engineer** focused on building clean applications and integrating smart AI models into software. I'm currently mastering Python and data systems from the ground up.
 
