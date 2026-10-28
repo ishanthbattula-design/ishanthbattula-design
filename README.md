@@ -10,6 +10,7 @@ I am an aspiring **Software & AI Engineer** focused on building clean applicatio
 - **[Personal Finance Tracker]():** A command-line tool that handles local data persistence and tracks real-time budget limits.
 - **[Password Strength Checker]():** A logical validation script that analyzes character complexity and patterns.
 
+
 ## Future AI Focus
 I am currently working toward connecting machine learning models and APIs to regular software layout skeletons, specifically focusing on data processing and entity extraction.
 
