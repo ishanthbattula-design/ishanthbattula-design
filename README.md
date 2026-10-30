@@ -1,19 +1,19 @@
-# Hi, I'm Ishanth! 👋
-
-I am an aspiring **Software & AI Engineer** focused on building clean applications and integrating smart AI models into software. I'm currently mastering Python and data systems from the ground up.
-
-## Tech Stack & Skills
-- **Languages:** Python , C# , Sql
-- **Core Software Skills:** File I/O, Data Parsing, CLI Application Design, Logic Automation
-
-## Projects I've Built
-- **[Personal Finance Tracker]():** A command-line tool that handles local data persistence and tracks real-time budget limits.
-- **[Password Strength Checker]():** A logical validation script that analyzes character complexity and patterns.
-
-
-## Future AI Focus
-I am currently working toward connecting machine learning models and APIs to regular software layout skeletons, specifically focusing on data processing and entity extraction.
+Software and AI engineer focused on building clean, high-performance applications and deploying machine learning models into production software. Currently scaling expertise in Python frameworks, advanced data pipelines, and system automation.
 
 ---
-*Connect with me or check out my repositories below,*
 
+### TECH STACK & SYSTEM SKILLS
+
+* **Languages:** Python, C#, SQL
+* **Core Software:** File I/O, Data Parsing, CLI Application Design, Logic Automation
+
+### AI ENGINEERING TOOLKIT
+
+* **Hugging Face:** Transformer deployments, model pipelines, and NLP integration.
+* **PyTorch:** Deep learning architectures, tensor operations, and neural networks.
+* **NumPy:** High-performance vectorization and mathematical computation.
+* **Pandas:** Structured data manipulation, analysis, and data engineering pipelines.
+
+---
+
+[SYSTEM] Connect with me or browse the repositories below:
