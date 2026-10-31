@@ -1,19 +1,35 @@
+# Hi, I'm [Your Name]
+
 Software and AI engineer focused on building clean, high-performance applications and deploying machine learning models into production software. Currently scaling expertise in Python frameworks, advanced data pipelines, and system automation.
 
 ---
 
-### TECH STACK & SYSTEM SKILLS
+## Tech Stack
 
-* **Languages:** Python, C#, SQL
-* **Core Software:** File I/O, Data Parsing, CLI Application Design, Logic Automation
+### Programming Languages
 
-### AI ENGINEERING TOOLKIT
+<table>
+  <tr>
+    <td><img src="https://githubusercontent.com" alt="python" width="40" height="40"/></td>
+  </tr>
+</table>
 
-* **Hugging Face:** Transformer deployments, model pipelines, and NLP integration.
-* **PyTorch:** Deep learning architectures, tensor operations, and neural networks.
-* **NumPy:** High-performance vectorization and mathematical computation.
-* **Pandas:** Structured data manipulation, analysis, and data engineering pipelines.
+* Python
 
----
+### AI Engineering & Data Science
 
-[SYSTEM] Connect with me or browse the repositories below:
+<table>
+  <tr>
+    <td><img src="https://githubusercontent.com" alt="pytorch" width="40" height="40"/></td>
+    <td><img src="https://githubusercontent.com" alt="langchain" width="40" height="40"/></td>
+    <td><img src="https://huggingface.co" alt="huggingface" width="40" height="40"/></td>
+    <td><img src="https://githubusercontent.com" alt="numpy" width="40" height="40"/></td>
+    <td><img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/></td>
+  </tr>
+</table>
+
+* PyTorch
+* LangChain
+* Hugging Face
+* NumPy
+* Pandas
