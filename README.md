@@ -10,7 +10,7 @@ Software and AI engineer focused on building clean, high-performance application
 
 <table>
   <tr>
-    <td><img src="https://githubusercontent.com" alt="python" width="40" height="40"/></td>
+    <td><img[![My Skills](https://skillicons.dev)](https://skillicons.dev)/></td>
   </tr>
 </table>
 
