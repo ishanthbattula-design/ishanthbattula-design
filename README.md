@@ -1,53 +1,49 @@
----
-profile_content: |
-  # Ishanth
+# Ishanth Battula
 
-  Software and AI engineer focused on building clean, high-performance applications, deploying machine learning models, and engineering dynamic 3D game pipelines.
-
-  ---
-
-  ## Profile Diagnostics
-  ---
-
-## Technical Architecture
-
-### Game Systems & Scripting
-*   **Languages:** GDScript, Python, C++ (GDExtension)
-*   **Engine & Frameworks:** Godot Engine 4.x (Forward+ Rendering, 3D Spatial Systems, Vector Math)
-
-### AI & Data Science
-*   **Frameworks & Libraries:** PyTorch, LangChain, Hugging Face, NumPy, Pandas
-*   **Deployment:** Local Model Integration (`.onnx`), Semantic Chunking, Machine Learning data orchestration
-
-### Infrastructure & 3D Game Dev
-*   **Systems Architecture:** Godot Node3D spatial pipelines, physics simulation, state management, and asset streaming
-*   **Graphics & Optimization:** Forward+ shader configurations, mesh deformation, low-level memory allocation, and version control (Git)
+Game Developer and ML Engineer specializing in 3D game systems architecture, high-performance application development, and machine learning pipeline deployment.
 
 ---
 
-## Pipeline Architecture
+## Technical Ecosystem
 
-### Bridging Machine Learning with Godot Node Streams
+### Machine Learning & Data Engineering
+* **Deep Learning Frameworks:** PyTorch, Hugging Face Transformers
+* **AI Orchestration & Pipelines:** LangChain, Semantic Chunking, Data Pipeline Automation
+* **Data Science Infrastructure:** NumPy, Pandas, Advanced Data Serialization, Model Optimization
 
-  ```python
+### 3D Game Development & Graphics
+* **Core Scripting & Architecture:** GDScript, Python, C++ (GDExtension Integration)
+* **Engine Operations:** Godot Engine 4.x (Spatial Systems, Forward+ Renderer, Vector Math Matrix Operations)
+* **Systems & Graphics Engineering:** Node3D spatial pipelines, real-time physics simulations, Forward+ shader configuration, dynamic mesh deformation, memory allocation management
+
+---
+
+## Systems Integration Architecture
+
+### Core Data-to-Spatial Conversion Pipeline
+```python
 def generate_3d_vector_coordinates(prompt_seed):
     """
-    Processes local model weights to output spatial arrays 
-    for direct injection into the Godot GDExtension pipeline.
+    Parses local deep learning model weights to output structural spatial matrices
+    optimized for direct runtime stream injection into the Godot Engine 4.x runtime.
     """
     spatial_matrix = ml_world_model.predict(prompt_seed)
     return spatial_matrix 
-  ```
+```
 
 ---
 
-## Current Objectives
+## Active Engineering Initiatives
 
-*   **3D Game Development:** Architecting a scalable 3D open-world framework leveraging Godot 4's Forward+ pipeline, focusing on clean modular systems for movement and state handling.
-*   **Procedural AI Generation:** Developing local data pipelines to parse Python machine learning model outputs directly into real-time 3D environments within Godot.
+* **Scalable 3D Environments:** Architecting modular open-world mechanics using Godot 4’s Forward+ pipeline, emphasizing strictly decoupled input states, state machines, and spatial asset handling.
+* **Procedural Inference Pipeline:** Engineering high-speed vector data transformation layers to translate raw local model inferences (`.onnx`) into deterministic real-time 3D environments.
+
 ---
-If the file you are editing requires specific key-value keys at the top (like title:, description:, or bio:), let me know the exact keys required by the platform or theme so I can nest the text perfectly under them.
-AI responses may include mistakes. Learn more
+
+<div align="center">
+  <img src="https://vercel.app" alt="Ishanth's GitHub Stats" />
+</div>
+
 
 
 
