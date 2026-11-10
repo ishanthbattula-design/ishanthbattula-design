@@ -1,34 +1,26 @@
-</details>
+---
 
-<details>
-<summary><b>▶ cat tech_stack.json</b></summary>
-<br>
+## Technical Architecture
 
+### Game Systems & Scripting
+*   **Languages:** GDScript, Python
+*   **Engine & Frameworks:** Godot Engine 4.x (Forward+ Rendering, 3D Spatial Systems, Vector Math)
 
-{
-  "development": {
-    "languages": ["GDScript", "Python", "C++"],
-    "engines": ["Godot 4.x"]
-  },
-  "ai_engineering": {
-    "deep_learning": ["PyTorch", "Hugging Face"],
-    "orchestration": ["LangChain", "Semantic Chunking"],
-    "data_processing": ["NumPy", "Pandas"]
-  },
-  "systems_engineering": {
-    "graphics": ["Forward+ Rendering", "Mesh Deformation", "Shader Configurations"],
-    "architecture": ["Node3D Spatial Pipelines", "State Management", "Asset Streaming"]
-  }
-}
+### AI & Data Science
+*   **Frameworks & Libraries:** PyTorch, LangChain, Hugging Face, NumPy, Pandas
+*   **Deployment:** Local Model Integration (`.onnx`), Semantic Chunking, Machine Learning data orchestration
 
-</details>
+### Infrastructure & 3D Game Dev
+*   **Systems Architecture:** Godot Node3D spatial pipelines, physics simulation, state management, and asset streaming
+*   **Graphics & Optimization:** Forward+ shader configurations, mesh deformation, low-level memory allocation, and version control (Git)
 
-<details>
-<summary><b>▶ ./run_procedural_generation_pipeline.sh</b></summary>
-<br>
+---
 
-python
-# Pipeline Architecture: Bridging Machine Learning with Godot Node Streams
+## Pipeline Architecture
+
+### Bridging Machine Learning with Godot Node Streams
+
+```python
 def generate_3d_vector_coordinates(prompt_seed):
     """
     Processes local model weights to output spatial arrays 
@@ -36,10 +28,9 @@ def generate_3d_vector_coordinates(prompt_seed):
     """
     spatial_matrix = ml_world_model.predict(prompt_seed)
     return spatial_matrix 
+```
 
-</details>
-
-
+---
 
 ## Current Objectives
 
@@ -51,5 +42,8 @@ def generate_3d_vector_coordinates(prompt_seed):
 <div align="center">
   <img src="https://vercel.app" alt="Ishanth's GitHub Stats" />
 </div>
+
+
+
 
 
